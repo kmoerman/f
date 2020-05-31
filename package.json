@@ -1,0 +1,9 @@
+{
+  "name": "f",
+  "version": "0.1.0",
+  "main": "M.js",
+  "description": "Generic javascript method utilities",
+  "repository": "https://github.com/kmoerman/m.git",
+  "author": "Klaas Moerman",
+  "license": "MIT"
+}
